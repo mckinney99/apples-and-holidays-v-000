@@ -68,7 +68,7 @@ def all_winter_holiday_supplies(holiday_hash)
       end
     end
    end
- 	end
+ 	
 
    def all_holidays_with_bbq(holiday_hash)
     holidays_with_bbqs = []
